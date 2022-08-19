@@ -1,0 +1,20 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinear, MipMapLinear
+repeat: none
+TileSet/FantasyHex/Unit/Crystal
+rotate: false
+xy: 100, 150
+size: 40, 45
+orig: 40, 45
+offset: 0, 0
+index: -1
+UnitIcon/Crystal
+rotate: fqlse
+xy: 150, 200
+size: 50, 60
+orig: 50, 60
+offset: 0, 0
+index: -1

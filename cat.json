@@ -1,0 +1,15 @@
+[
+   {
+       "unitName": "crystql",
+       "unitType": "Melee",
+       "replaces": "Swordsmen",
+       "uniqueTo": "Japan",
+       "movement": 10,
+       "Strength": 65,
+       "cost": 145,
+       "requiredTech": "Iron Working",
+       "obsoleteTech": "Steel",
+       "upgradesTo": "Longswordsmen"'
+       "uniqies": ["+2 sight <[+30%]strength>Melee>""],
+       "promotions": ["Ingnore terrian cost"],
+       
